@@ -1,1 +1,50 @@
+# Program 1: Insert Element into a List
+
+# list1 = [6, 3, 7, 4, 5, 6]
+# list1.insert(5, 2)
+# print(list1)
+
+
+# Program 2: Favourite Movies
+
+# movies = []
+
+# mov1 = input("1st Movie: ")
+# mov2 = input("2nd Movie: ")
+# mov3 = input("3rd Movie: ")
+
+# movies.append(mov1)
+# movies.append(mov2)
+# movies.append(mov3)
+
+# print(movies)
+
+
+# Program 3: Check Whether a List is Palindrome
+
+# list1 = []
+
+# first = input("Enter First Number: ")
+# second = input("Enter Second Number: ")
+# third = input("Enter Third Number: ")
+
+# list1.append(first)
+# list1.append(second)
+# list1.append(third)
+
+# copy_list = list1.copy()
+# copy_list.reverse()
+
+# if copy_list == list1:
+#     print("Palindrome")
+# else:
+#     print("Not Palindrome")
+
+
+# Program 4: Sort a List
+
+# grades = ["C", "D", "A", "A", "B", "B", "A"]
+# grades.sort()
+
+# print(grades)
 

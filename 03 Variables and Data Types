@@ -1,44 +1,23 @@
-# #--- add two numbers
-# a = int(input("Enter First Number: "))  # if i dont mention data type i.e int , it will give the output in string format. 
+# Program 1: Add Two Numbers Using Integer Input
+
+# a = int(input("Enter First Number: "))
 # b = int(input("Enter Second Number: "))
 
-# sum = a + b 
-# print("The sum of two numbers is: ", sum)
+# sum = a + b
+# print("The Sum of Two Numbers is:", sum)
 
 
-# #Program to input side of a square & print area of square
-# side = float(input("Enter the side of Square:"))
-# area = side ** 2 #this is same as side*side
-# print("The Area of Square is:", area)
+# Program 2: Calculate Area of a Square
+
+# side = float(input("Enter the Side of the Square: "))
+# area = side ** 2
+# print("The Area of the Square is:", area)
 
 
-
-#Program to input two floating point numbers & print their average
+# Program 3: Calculate Average of Two Floating Point Numbers
 
 # num1 = float(input("Enter First Number: "))
 # num2 = float(input("Enter Second Number: "))
 
 # avg = (num1 + num2) / 2
-# print("The Average of two numbers is: ", avg)
-
-
-
-#Program to input two int numbers a and b, Print true if a is greater than or equal to b, else print false
-# a = float(input("Enter your First number:"))
-# b = float(input("Enter your Second number:"))
-
-# print(a>=b)
-
- 
-# str = " Abhi ."
-# str1 = str[0:4]
-# print(str1)
-
-
-#Program to input a string and print the length of the string
-# Name = input("Enter Your Name:----")
-# print("Length of Name is --",len(Name))
-
-#Program to input a string and print the number of times a specific character appears in the string 
-# str = "Abhi$@gmail.com"
-# print(str.count("$"))
+# print("The Average is:", avg)

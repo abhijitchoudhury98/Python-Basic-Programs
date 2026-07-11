@@ -1,2 +1,16 @@
 Explicit Type Casting (float)
+
+# a=float("5")
+# b=4
+# print(a+b)
+# print(type(a))
+
+
 Explicit Type Casting (string)
+
+# typecasting
+# a=str("5")
+# b=a
+# print(a+b)
+# print(type(a))
+

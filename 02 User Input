@@ -1,4 +1,5 @@
-Program for User Input
-# ---input in python
-# # name=input("Enter your name: ")
-# # print("Hello", name)
+# Program 1: Input a Name from the User
+
+# name = input("Enter your name: ")
+# print("Hello", name)
+

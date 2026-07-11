@@ -1,1 +1,19 @@
+# Program 1: Tuple Slicing
 
+# tup = (2, 5, 6, 3, 2, 1)
+
+# print(tup[1:4])
+
+
+# Program 2: Count Occurrence in Tuple
+
+# tup = (2, 5, 6, 3, 2, 1)
+
+# print(tup.count(6))
+
+
+# Program 3: Count Grade 'A'
+
+# grades = ("C", "D", "A", "A", "B", "B", "A")
+
+# print(grades.count("A"))

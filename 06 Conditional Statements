@@ -1,1 +1,83 @@
+# Program 1: Voting Eligibility
+
+# age = int(input("Enter Your Age: "))
+
+# if age >= 18:
+#     print("You are eligible to vote")
+# else:
+#     print("You are not eligible to vote")
+
+
+# Program 2: Gender Check
+
+# gender = input("Enter Your Gender: ")
+
+# if gender == "Male":
+#     print("You are eligible for the Test")
+# elif gender == "Female":
+#     print("You are not eligible for the Test")
+# else:
+#     print("Invalid Input")
+
+
+# Program 3: Boolean Example
+
+# age = 26
+
+# if age >= 18:
+#     print(True)
+# else:
+#     print(False)
+
+
+# Program 4: Student Grade Calculator
+
+# marks = int(input("Enter Your Marks: "))
+
+# if marks >= 90 and marks < 100:
+#     grade = "A"
+# elif marks >= 80 and marks < 90:
+#     grade = "B"
+# elif marks >= 70 and marks < 80:
+#     grade = "C"
+# elif marks < 70:
+#     grade = "D"
+# else:
+#     print("Invalid Marks")
+
+# print("Grade:", grade)
+
+
+# Program 5: Check Odd or Even
+
+# num = int(input("Enter a Number: "))
+
+# if num % 2 == 0:
+#     print(num, "is Even")
+# else:
+#     print(num, "is Odd")
+
+
+# Program 6: Greatest of Three Numbers
+
+# num1 = int(input("Enter First Number: "))
+# num2 = int(input("Enter Second Number: "))
+# num3 = int(input("Enter Third Number: "))
+
+# if num1 > num2 and num1 > num3:
+#     print(num1, "is the Greatest Number")
+# elif num2 > num1 and num2 > num3:
+#     print(num2, "is the Greatest Number")
+# else:
+#     print(num3, "is the Greatest Number")
+
+
+# Program 7: Check Multiple of 7
+
+# num = int(input("Enter a Number: "))
+
+# if num % 7 == 0:
+#     print(num, "is a Multiple of 7")
+# else:
+#     print(num, "is not a Multiple of 7")
 

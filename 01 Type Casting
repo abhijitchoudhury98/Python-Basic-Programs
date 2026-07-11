@@ -1,16 +1,14 @@
-Explicit Type Casting (float)
+# Program 1: Convert String to Float (Explicit Type Casting)
 
-# a=float("5")
-# b=4
-# print(a+b)
+# a = float("5")
+# b = 4
+# print(a + b)
 # print(type(a))
 
 
-Explicit Type Casting (string)
+# Program 2: Convert String to String (Explicit Type Casting)
 
-# typecasting
-# a=str("5")
-# b=a
-# print(a+b)
+# a = str("5")
+# b = a
+# print(a + b)
 # print(type(a))
-

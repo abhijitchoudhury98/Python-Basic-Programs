@@ -1,1 +1,17 @@
+# Program 1: String Slicing
 
+# string = "Abhi."
+# str1 = string[0:4]
+# print(str1)
+
+
+# Program 2: Find Length of a String
+
+# name = input("Enter Your Name: ")
+# print("Length =", len(name))
+
+
+# Program 3: Count Occurrence of a Character
+
+# string = "Abhi$@gmail.com"
+# print(string.count("$"))
